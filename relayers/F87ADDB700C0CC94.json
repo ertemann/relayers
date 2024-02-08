@@ -600,6 +600,10 @@
         {
             "ticker": "LUNA",
             "relayerAddress": "terra1pn3t586r4t0w4w4pncmmdnsl3fqmj625xngs80"
+        },
+        {
+            "ticker": "DYM",
+            "relayerAddress": "dym1mx070d26eu5trde862pfl6gaqmzlcj99ye4xcu"
         }
     ]
 }
